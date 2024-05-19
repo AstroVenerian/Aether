@@ -8,10 +8,10 @@
    As I have said before, this will serve as a hosting grounds for my main website using GitHub Pages. This may include links to third-party pages (such as but not limited to Twitter, Pensight, Linktree, TikTok, & YouTube). There may be blogs hosted on the website for general discussions but these have strict guidelines that must be followed. (Guidelines Can Be Found Here -> Https://Mayeaux.Cloud/Guidelines/Community) 
 
 ## Legal Mumbo Jumbo:
-Privacy Policy = Https://Mayeaux.Cloud/Guidelines/PrivPol
-Terms of Service = Https://Mayeaux.Cloud/Guidelines/ToS
-Refund Policy = Https://Mayeaux.Cloud/Guidelines/Refunds
-Community Guidelines = Https://Mayeaux.Cloud/Guidelines/Community
+1. Privacy Policy = Https://Mayeaux.Cloud/Guidelines/PrivPol
+2. Terms of Service = Https://Mayeaux.Cloud/Guidelines/ToS
+3. Refund Policy = Https://Mayeaux.Cloud/Guidelines/Refunds
+4. Community Guidelines = Https://Mayeaux.Cloud/Guidelines/Community
 
 ## Contact:
-General = Support@Mayeaux.Cloud
+1. General = Support@Mayeaux.Cloud
